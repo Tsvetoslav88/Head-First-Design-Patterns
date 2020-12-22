@@ -1,4 +1,4 @@
-package singleton;
+package ch05_singleton.chocolate;
 
 public class ChocolateController {
 	public static void main(String args[]) {
