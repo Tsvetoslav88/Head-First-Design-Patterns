@@ -1,4 +1,4 @@
-package strategy;
+package ch01_strategy;
 
 public class FlyRocketPower implements FlyBehaviour {
 
