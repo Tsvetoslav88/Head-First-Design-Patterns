@@ -1,4 +1,4 @@
-package decorator.io;
+package ch03_decorator.io;
 
 import java.io.BufferedInputStream;
 import java.io.FileInputStream;

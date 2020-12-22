@@ -1,4 +1,4 @@
-package decorator.car;
+package ch03_decorator.car;
 
 /**
  * Component Implementation – The basic implementation of the component interface. 

@@ -1,4 +1,4 @@
-package decorator.starbuzz;
+package ch03_decorator.starbuzz;
 
 public class Soy extends CondimentDecorator {
 	Beverage beverage;

@@ -1,4 +1,4 @@
-package decorator.car;
+package ch03_decorator.car;
 
 public class SportsCar extends CarDecorator {
 

@@ -1,4 +1,4 @@
-package decorator.car;
+package ch03_decorator.car;
 
 /**
  * Decorator – Decorator class implements the component interface and it has a HAS-A relationship with the component interface. 

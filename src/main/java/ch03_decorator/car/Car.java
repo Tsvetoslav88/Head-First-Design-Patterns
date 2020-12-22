@@ -1,4 +1,4 @@
-package decorator.car;
+package ch03_decorator.car;
 
 /**
  * Component Interface – The interface or abstract class defining the methods that will be implemented. 
