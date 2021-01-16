@@ -8,4 +8,5 @@ Code for the book Head First Design Patterns by Eric Freeman & Elizabeth Freeman
 4. [Factory](src/main/java/ch04_factory)
 5. [Singleton](src/main/java/ch05_singleton)
 6. [Command Object](src/main/java/ch06_command_object)
+7. [Adapter](src/main/java/ch07_adapter) / [Facade](src/main/java/ch07_facade)
 
