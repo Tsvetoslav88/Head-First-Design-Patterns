@@ -18,7 +18,7 @@ public class PancakeHouseMenu implements Menu {
         addItem("Regular Pancake Breakfast",
                 "Pancakes with fried eggs, sausage",
                 false,
-                2.99);
+                    2.99);
 
         addItem("Blueberry Pancakes",
                 "Pancakes made with fresh blueberries",
