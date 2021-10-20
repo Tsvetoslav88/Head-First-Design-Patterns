@@ -1,7 +1,7 @@
 # Head-First-Design-Patterns
-Code for the book Head First Design Patterns by Eric Freeman & Elizabeth Freeman
+The repository contains examples from "Head First Design Patterns" by Eric Freeman & Elizabeth Freeman
 
-## Patterns
+## List of Patterns and their implementation
 1. [Strategy](src/main/java/ch01_strategy)
 2. [Observer](src/main/java/ch02_observer)
 3. [Decorator](src/main/java/ch03_decorator)
